@@ -5,6 +5,7 @@ import ContactMe from './pages/ContactMe';
 import Home from  './pages/Home';
 import Portfolio from './pages/Portfolio';
 import Resume from  './pages/Resume';
+import '../App.css';
 
 
 export default function PortfolioContainer() {
