@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b7caf919.css",
+    "main.js": "/react-portfolio/static/js/main.c47b69fc.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/LifePlanner.png": "/react-portfolio/static/media/LifePlanner.1cff4c0e814879f741d1.png",
+    "static/media/self.jpeg": "/react-portfolio/static/media/self.8d41f25aa519240e2e85.jpeg",
+    "static/media/SocialNetwork.png": "/react-portfolio/static/media/SocialNetwork.12b2d91ad8a356ac379d.png",
+    "static/media/WeatherDashboard.png": "/react-portfolio/static/media/WeatherDashboard.e899b47f394489f2c0c8.png",
+    "static/media/call-me-icon-22.jpg": "/react-portfolio/static/media/call-me-icon-22.169c327a064a3715ce12.jpg",
+    "static/media/TechBlog.png": "/react-portfolio/static/media/TechBlog.847490d38f985364c311.png",
+    "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.3c5d3f5ede6fb89a63e4.png",
+    "static/media/textEditor.png": "/react-portfolio/static/media/textEditor.1249f24aca0e923b9bce.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.196f36fa06fcd2a9d9ea.png",
+    "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.9a3f8a4630abb976dfb1.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.b7caf919.css.map": "/react-portfolio/static/css/main.b7caf919.css.map",
+    "main.c47b69fc.js.map": "/react-portfolio/static/js/main.c47b69fc.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7caf919.css",
+    "static/js/main.c47b69fc.js"
+  ]
+}
