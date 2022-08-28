@@ -11,7 +11,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <ul className='nav nav-pills'>
           <li className='nav-item'>
             <a href='#Home'
-               onClick={() => handlePageChange('home')}
+               onClick={() => handlePageChange('Home')}
                className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'} aria-current="page"
             >
               Home
