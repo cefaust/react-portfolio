@@ -5,12 +5,29 @@ import textEditor from '../../projects/textEditor.png'
 import lifePlanner from '../../projects/LifePlanner.png'
 import socialNetwork from '../../projects/SocialNetwork.png'
 import weatherDashboard from '../../projects/WeatherDashboard.png'
+import therealdibs from '../../projects/TheRealDibs.png'
 
 export default function Portfolio() {
   return (
     <div>
       <h1 className='pageHeader'>Portfolio</h1>
       <div className="row row-cols-1 row-cols-md-2 g-4">
+        <div className="col">
+          <div className="card text-bg-dark border-0">
+            <div id='portfolioLink' className="card-header text-center">
+              The Real Dibs
+            </div>
+            <img id='portfolioImg' src={therealdibs}  className="card-img" alt="..."/>
+            <div id='cardBackground' className="card-body">
+              <a id="portfolioLink" className="btn btn-link" href="https://the-real-dibs.herokuapp.com/"  target= '_blank' rel= 'noreferrer'
+              >Deployed The Real Dibs
+              </a>
+              <a id='portfolioLink' href="https://github.com/cefaust/DIbs" className="btn btn-link" target= '_blank' rel= 'noreferrer'
+              >GitHub Repository
+              </a>
+            </div>
+          </div>
+        </div>
         <div className="col">
           <div className="card text-bg-dark border-0">
               <div id='portfolioLink' className="card-header text-center">
